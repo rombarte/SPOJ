@@ -8,6 +8,7 @@ Zadania wykonane w ramach polskiej wersji serwisu SPOJ
 ### Programy w PYTHON
 1. [Dwie cyfry silni](FCTRL3/source.py)
 2. [Czy umiesz potęgować](PA05_POT/source.py)
+3. [Power it!](MPOWER/source.py)
 
 ## Licencja
 Wszystkie pliki w tym repozytorium objęte są licencją MIT
