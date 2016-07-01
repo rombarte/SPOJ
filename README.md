@@ -5,6 +5,7 @@ Moje propozycje rozwiązań zadań z polskiej wersji serwisu [SPOJ](http://pl.sp
 
 ### Programy w C / C++
 1. [Flamaster](FLAMASTE/source.c)
+2. [Pole pewnego koła](ETI06F1/source.c)
 
 ### Programy w PHP
 1. [Dwie cyfry silni](FCTRL3/source.php)
