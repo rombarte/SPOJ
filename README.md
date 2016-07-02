@@ -7,6 +7,9 @@ Moje propozycje rozwiązań zadań z polskiej wersji serwisu [SPOJ](http://pl.sp
 1. [Flamaster](FLAMASTE/source.c)
 2. [Pole pewnego koła](ETI06F1/source.c)
 
+### Programy w JAVASCRIPT
+1. [Suma](SUMA/source.js)
+
 ### Programy w PHP
 1. [Dwie cyfry silni](FCTRL3/source.php)
 2. [Flamaster](FLAMASTE/source.php)
