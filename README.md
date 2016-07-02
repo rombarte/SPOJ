@@ -11,6 +11,7 @@ Moje propozycje rozwiązań zadań z polskiej wersji serwisu [SPOJ](http://pl.sp
 1. [Dwie cyfry silni](FCTRL3/source.php)
 2. [Flamaster](FLAMASTE/source.php)
 3. [Pole pewnego koła](ETI06F1/source.php)
+4. [Suma](SUMA/source.php)
 
 ### Programy w PYTHON
 1. [Dwie cyfry silni](FCTRL3/source.py)
