@@ -6,6 +6,7 @@ Moje propozycje rozwiązań zadań z polskiej wersji serwisu [SPOJ](http://pl.sp
 ### Programy w C / C++
 1. [Flamaster](FLAMASTE/source.c)
 2. [Pole pewnego koła](ETI06F1/source.c)
+3. [Czy potrafisz nie uzyć średnika](BEZPRZEC/source.c)
 
 ### Programy w JAVASCRIPT
 1. [Suma](SUMA/source.js)
