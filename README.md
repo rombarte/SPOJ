@@ -17,6 +17,7 @@ Moje propozycje rozwiązań zadań z polskiej wersji serwisu [SPOJ](http://pl.sp
 2. [Flamaster](FLAMASTE/source.php)
 3. [Pole pewnego koła](ETI06F1/source.php)
 4. [Suma](SUMA/source.php)
+5. [Cwany Lutek](CWANY_LU/source.php)
 
 ### Programy w PYTHON
 1. [Dwie cyfry silni](FCTRL3/source.py)
@@ -26,4 +27,4 @@ Moje propozycje rozwiązań zadań z polskiej wersji serwisu [SPOJ](http://pl.sp
 5. [Flamaster](FLAMASTE/source.py)
 
 ## Licencja
-Wszystkie pliki w tym repozytorium objęte są licencją MIT. Więcej informacji oraz odnośnik do treści licencji znajdziesz na stronie [Wikipedii](http://pl.wikipedia.org/wiki/Licencja_X11).
+> Wszystkie pliki w tym repozytorium objęte są licencją MIT. Więcej informacji oraz odnośnik do treści licencji znajdziesz na stronie [Wikipedii](http://pl.wikipedia.org/wiki/Licencja_X11).
