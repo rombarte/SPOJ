@@ -1,5 +1,5 @@
 # SPOJ
-Moje propozycje rozwiązań zadań z polskiej wersji serwisu [SPOJ](http://pl.spoj.com)
+Moje propozycje rozwiązań zadań z serwisu [SPOJ](http://pl.spoj.com)
 
 ## Spis zawartości (w kolejności chronologicznej)
 
