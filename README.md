@@ -27,4 +27,4 @@ Moje propozycje rozwiązań zadań z polskiej wersji serwisu [SPOJ](http://pl.sp
 5. [Flamaster](FLAMASTE/source.py)
 
 ## Licencja
-> Wszystkie pliki w tym repozytorium objęte są licencją MIT. Więcej informacji oraz odnośnik do treści licencji znajdziesz na stronie [Wikipedii](http://pl.wikipedia.org/wiki/Licencja_X11).
+Wszystkie pliki w tym repozytorium udostępniam na licencji MIT. Więcej informacji oraz odnośnik do treści licencji znajdziesz na stronie [Wikipedii](http://pl.wikipedia.org/wiki/Licencja_X11).
