@@ -4,6 +4,9 @@ defmodule Console do
     |> Integer.parse()
     |> elem(0)
   end
+  def write_string(text) do
+    IO.puts(text)
+  end
 end
 
 defmodule Exercise do
@@ -22,23 +25,23 @@ defmodule PrimeNumber do
       _ when number <= 3 ->
         case number do
           _ when number > 1 ->
-            IO.puts("TAK")
+            Console.write_string("TAK")
           _ when number <= 1 ->
-            IO.puts("NIE")
+            Console.write_string("NIE")
         end
       _ when rem(number, 2) == 0 or rem(number, 3) == 0 ->
-        IO.puts("NIE")
+        Console.write_string("NIE")
       _ ->
         check_more(number, 5)
     end
   end
   def check_more(n, i) when i * i > n do
-    IO.puts("TAK")
+    Console.write_string("TAK")
   end
   def check_more(n, i) when i * i <= n do
     case {n, i} do
       _ when rem(n, i) == 0 or rem(n, i + 2) == 0 ->
-        IO.puts("NIE")
+        Console.write_string("NIE")
       _ ->
         check_more(n, i + 6)
     end
