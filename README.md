@@ -9,6 +9,9 @@ Moje propozycje rozwiązań zadań z serwisu [SPOJ](http://pl.spoj.com)
 3. [Czy potrafisz nie uzyć średnika](BEZPRZEC/source.c)
 4. [Cwany Lutek](CWANY_LU/source.c)
 
+### Programy w ELIXIR
+1. [Liczby Pierwsze](PRIME_T/source.ex)
+
 ### Programy w JAVASCRIPT
 1. [Suma](SUMA/source.js)
 
